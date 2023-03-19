@@ -5,4 +5,4 @@ These files were used to create, train and evaluate all of the models discussed 
 
 Note: Object detection uses PyTorch whereas the other models used Keras.
 
-If any issues with the code occur or you have any questions, please get in contact with me via email: N0788203@my.ntu.ac.uk
+If any issues with the code occur or you have any questions, please get in contact with me via email: syd.proom@experian.com
